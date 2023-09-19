@@ -1,0 +1,76 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Users\miguemtz\Documents\SIAM\SIAM ORA\SIAM2.exe)(HOST=OFC8-7R0TMD2)(USER=miguemtz))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.4.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.4.0 - Production
+  Time: 25-MAR-2022 14:15:02
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:error del adaptador de protocolo
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Error del adaptador de protocolo
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12170.
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.1.0.4.0 - Production
+  Time: 08-DIC-2022 22:56:41
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12535
+    TNS-12535: TNS:timeout de la operación
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Timeout de la operación
+    nt secondary err code: 60
+    nt OS err code: 0
+  Client address: <unknown>
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SIAM)(CID=(PROGRAM=C:\Users\miguemtz\Documents\trabajo\SIAM\SIAM ORA\SIAM2.exe)(HOST=OFC8-7R0TMD2)(USER=miguemtz)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.33.1.97)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.1.0.4.0 - Production
+  Time: 08-DIC-2022 22:56:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexión rechazada
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Timeout de la operación
+    nt secondary err code: 60
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12514, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=SIAM)(CID=(PROGRAM=C:\Users\miguemtz\Documents\trabajo\SIAM\SIAM ORA\SIAM2.exe)(HOST=OFC8-7R0TMD2)(USER=miguemtz)))(ADDRESS=(PROTOCOL=TCP)(HOST=10.33.1.96)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.4.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.1.0.4.0 - Production
+  Time: 08-DIC-2022 22:58:35
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:conexión rechazada
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: Timeout de la operación
+    nt secondary err code: 60
+    nt OS err code: 0

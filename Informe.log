@@ -1,0 +1,8 @@
+Línea 13: la clase Crystal.CrystalReport del control CReport no era una clase de control cargada.
+Línea 16: el nombre de la propiedad _ExtentX de CReport no es válido.
+Línea 17: el nombre de la propiedad _ExtentY de CReport no es válido.
+Línea 18: el nombre de la propiedad _Version de CReport no es válido.
+Línea 19: el nombre de la propiedad WindowControlBox de CReport no es válido.
+Línea 20: el nombre de la propiedad WindowMaxButton de CReport no es válido.
+Línea 21: el nombre de la propiedad WindowMinButton de CReport no es válido.
+Línea 22: el nombre de la propiedad PrintFileLinesPerPage de CReport no es válido.
